@@ -1,6 +1,6 @@
 ## hello-world
 ### About Me
-#### Hello! I'm DigiTech. I'm a developer interested in Bitcoin and cryptocurrency technologies.
+#### Hello! I'm DigiTech. I'm a developer interested in Bitcoin and cryptocurrency technologies. Since 2017
 #### My Interests
 #### **Bitcoin & Cryptocurrency**: I actively research blockchain technology, cryptocurrency ecosystem, and decentralized finance (DeFi) areas.
 #### **Software Development**: I continue to improve myself in coding, design, and software development processes.
