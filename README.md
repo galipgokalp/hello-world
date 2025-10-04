@@ -2,8 +2,8 @@
 ## About Me
 Hello! I'm DigiTech. I'm a developer interested in Bitcoin and cryptocurrency technologies.
 ### My Interests
-###🔷 **Bitcoin & Cryptocurrency**: I actively research blockchain technology, cryptocurrency ecosystem, and decentralized finance (DeFi) areas.
-💻 **Software Development**: I continue to improve myself in coding, design, and software development processes.
+### **Bitcoin & Cryptocurrency**: I actively research blockchain technology, cryptocurrency ecosystem, and decentralized finance (DeFi) areas.
+### **Software Development**: I continue to improve myself in coding, design, and software development processes.
 ---
 *"This space is part of my journey of learning and contributing."*
 # Thank You
