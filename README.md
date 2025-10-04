@@ -1,12 +1,10 @@
 # hello-world
-## Hakkımda / About Me
-Merhaba! Ben DigiTech. Bitcoin ve kripto para teknolojileri ile ilgilenen bir geliştiriciyim.
-### İlgi Alanlarım
-🔷 **Bitcoin & Kripto Para**: Blockchain teknolojisi, kripto para ekosistemi ve merkezi olmayan finans (DeFi) alanlarında aktif olarak araştırma yapıyorum.
-
-💻 **Yazılım Geliştirme**: Kodlama, tasarım ve yazılım geliştirme süreçlerinde kendimi geliştirmeye devam ediyorum.
-
+## About Me
+Hello! I'm DigiTech. I'm a developer interested in Bitcoin and cryptocurrency technologies.
+### My Interests
+🔷 **Bitcoin & Cryptocurrency**: I actively research blockchain technology, cryptocurrency ecosystem, and decentralized finance (DeFi) areas.
+💻 **Software Development**: I continue to improve myself in coding, design, and software development processes.
 ---
-
-*"Bu alan öğrenme ve katkı sağlama yolculuğumun bir parçası."*
-# Teşekkürler![2f1041cd-ae04-4ddf-99c5-5a0115222a63](https://github.com/user-attachments/assets/4cb3ee40-aa41-41a6-97c4-d22c68233a67)
+*"This space is part of my journey of learning and contributing."*
+# Thank You
+![2f1041cd-ae04-4ddf-99c5-5a0115222a63](https://github.com/user-attachments/assets/4cb3ee40-aa41-41a6-97c4-d22c68233a67)
